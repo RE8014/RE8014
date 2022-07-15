@@ -10,14 +10,6 @@ li {
     list-style: none;
 }
 
-hr {
-    background-color: #00000098;
-    height: 3px;
-    width: 800px;
-    border-radius: 100px;
-    border: none;
-}
-
 div.logo {
     margin-top: 20px;
     text-align: center;
@@ -56,32 +48,10 @@ div.logo {
     width: 250px; 
 } 
 
-#article {
-    margin-top: 30px;
-    font-family: 'Patrick Hand', cursive;
-}
-
-#article h1 {
-    font-size: 50px;
-}
-
-#article p {
-    font-size: 40px;
-    width: 800px;
-    margin: auto;
-}
-
-#title {
-    text-align: center;
-}
-
 @media (max-width:950px) {
     #nav-list li a {
         font-size: 25px;
         width: 200px; 
-    }
-    hr {
-        width: 600px;
     }
 }
 
@@ -99,17 +69,10 @@ div.logo {
     #nav-list li a {
         width: 500px; 
     }
-
-    hr {
-        width: 500px;
-    }
 }
 
 @media (max-width: 600px) {
     #nav-list li a {
         width: 300px; 
-    }
-    hr {
-        width: 300px;
     }
 }
