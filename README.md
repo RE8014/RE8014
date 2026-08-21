@@ -1,6 +1,9 @@
 ```
 $ whoami
 ```
+<h1 data-importer="text" align="center">👋 Hey there, I am RE8014</h1>
+
+###
 
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=Mail&label=&color=D14836&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -12,10 +15,6 @@ $ whoami
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=RE8014.RE8014&"  />
 </div>
-
-###
-
-<h1 data-importer="text" align="center">hey there 👋</h1>
 
 ###
 
