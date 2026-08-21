@@ -22,7 +22,10 @@ $ whoami
 
 ###
 
-<p data-importer="text" align="left">I'm RE8014 <br><br>- 🔭 I’m a university student<br>- 📚 I'm majoring in computer science<br>- ⚡ In my free time I love reading, running and playing guitar</p>
+I'm RE8014
+- 🔭 I’m a university student
+- 📚 I'm majoring in computer science
+- ⚡ In my free time I love reading, running and playing guitar</p>
 
 ###
 
